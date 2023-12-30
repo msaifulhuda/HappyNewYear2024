@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HappyNewYear2024/static/css/main.e881eac3.css",
+    "main.js": "/HappyNewYear2024/static/js/main.67989cd1.js",
+    "static/js/787.390704f4.chunk.js": "/HappyNewYear2024/static/js/787.390704f4.chunk.js",
+    "index.html": "/HappyNewYear2024/index.html",
+    "main.e881eac3.css.map": "/HappyNewYear2024/static/css/main.e881eac3.css.map",
+    "main.67989cd1.js.map": "/HappyNewYear2024/static/js/main.67989cd1.js.map",
+    "787.390704f4.chunk.js.map": "/HappyNewYear2024/static/js/787.390704f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e881eac3.css",
+    "static/js/main.67989cd1.js"
+  ]
+}
